@@ -1,4 +1,4 @@
-# Superstores Sales Data Analysis in Excel
+# Sales Data Analysis - Excel
 
 ## Overview
 Superstores is an American-based retailer specializing in electronic appliances and accessories, with a diverse range of products, including phones, laptops, and related items. The company operates in 10 cities and 8 regions.
